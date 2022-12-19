@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Lionel Messi",
+      "username": "messi",
+      "email": "messi@email.com",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Kylian Mbappe",
+      "username": "mbappe",
+      "email": "mbappe@email.com"
+    },
+    {
+      "name": "Paolo Dybala",
+      "username": "dybala",
+      "email": "dybala@email.com",
+      "id": 4
+    },
+    {
+      "name": "Harry Kane",
+      "username": "kane",
+      "email": "kane@email.com",
+      "id": 5
+    },
+    {
+      "name": "Neymar",
+      "username": "neymar jr",
+      "email": "neymar@email.com",
+      "id": 6
+    },
+    {
+      "name": "LLoris",
+      "username": "lloris",
+      "email": "lloris@email.com",
+      "id": 7
+    }
+  ]
+}
